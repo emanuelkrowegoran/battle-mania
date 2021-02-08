@@ -20421,7 +20421,7 @@ edgtf-page-content-skin-light .edgtf-match-single-nav .edgtf-single-nav-content-
 .edgtf-cc-hover-roll-over .edgtf-cc-item .edgtf-cc-image {
     position: relative;
     display: block;
-    width: auto;
+    width: 80%;
     margin: 0 auto;
     -webkit-transition: -webkit-transform .35s;
     -moz-transition: -moz-transform .35s;
@@ -20432,7 +20432,7 @@ edgtf-page-content-skin-light .edgtf-match-single-nav .edgtf-single-nav-content-
     position: absolute;
     top: 0;
     left: 50%;
-    width: auto;
+    width: 80%;
     -webkit-transform: translate(-50%, -100%);
     -moz-transform: translate(-50%, -100%);
     transform: translate(-50%, -100%);
